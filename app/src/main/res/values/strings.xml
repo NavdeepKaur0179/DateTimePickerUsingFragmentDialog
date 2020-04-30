@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DateTimePickerUsingDialogFragment</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="choose_a_date">Choose a Date and Time</string>
+    <string name="date_selected">Date: </string>
+    <string name="timepicker">timePicker</string>
+    <string name="time_selected">Time Selected</string>
+    <string name="datepicker">datePicker</string>
+</resources>
